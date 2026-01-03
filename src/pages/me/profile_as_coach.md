@@ -48,12 +48,13 @@ title: "コーチとしてのプロフィール"
     - 大阪のテスター・QA・[System Fixer](../../data/blog/system_fixer.md)
 - ストレングスファインダー
 
-![](../../../public/assets/yamazun_real2.jpg]
+![](../../../public/assets/yamazun_real2.jpg)
 やまずんの近影
 
 # セッション依頼のご依頼・お問い合わせ
-私のコーチングに興味を持たれた方は、まずはこちらの[MENTA](https://menta.work/user/98929)からお気軽にご連絡ください。
+私のコーチングに興味を持たれた方は、まずはX＠55_ymznのDMからお気軽にご連絡ください。
+その他、ご質問やご相談がありましたら、にてお待ちしています。
 
-その他、ご質問やご相談がありましたら、X＠55_ymznのDMにてお待ちしています。
+[MENTA](https://menta.work/user/98929)でも大丈夫です。
 
 [← Meに戻る](/me)
