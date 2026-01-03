@@ -9,6 +9,7 @@ import EditPost from "@/components/EditPost.astro";
 import ShareLinks from "@/components/ShareLinks.astro";
 import BackButton from "@/components/BackButton.astro";
 import BackToTopButton from "@/components/BackToTopButton.astro";
+import LinkButton from "@/components/LinkButton.astro"; // ▼ 追加: ボタン用コンポーネント
 import { getPath } from "@/utils/getPath";
 import { slugifyStr } from "@/utils/slugify";
 import IconChevronLeft from "@/assets/icons/IconChevronLeft.svg";
@@ -80,6 +81,11 @@ const currentPostIndex = allPosts.findIndex(a => a.id === post.id);
 const prevPost = currentPostIndex !== 0 ? allPosts[currentPostIndex - 1] : null;
 const nextPost =
   currentPostIndex !== allPosts.length ? allPosts[currentPostIndex + 1] : null;
+
+/* ========== X Feedback URL ========== */
+// ▼ 追加: 記事の感想用URL生成
+const currentUrl = new URL(Astro.url.pathname, SITE.website).href;
+const feedbackUrl = `https://twitter.com/intent/tweet?text=@55_ymzn%20記事読みました！%0A&url=${currentUrl}`;
 ---
 
 <Layout {...layoutProps}>
@@ -129,9 +135,25 @@ const nextPost =
 
     <ShareLinks />
 
+    <div class="mt-12 text-center p-6 border-2 border-dashed border-skin-line rounded-xl bg-skin-card/50">
+      <p class="mb-4 font-bold text-lg">この記事はいかがでしたか？</p>
+      <p class="mb-6 text-sm opacity-90">
+        コメント機能はありません。<br>
+        感想やフィードバックはX（Twitter）でやまずん宛に送ってください！
+      </p>
+      
+      <a 
+        href={feedbackUrl}
+        target="_blank"
+        rel="noopener noreferrer"
+        class="inline-flex items-center gap-2 px-6 py-3 bg-skin-card border border-skin-line rounded-full hover:text-skin-accent hover:border-skin-accent transition-colors shadow-sm group"
+      >
+        <svg xmlns="http://www.w3.org/2000/svg" class="icon-tabler stroke-skin-base group-hover:stroke-skin-accent" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4l11.733 16h4.267l-11.733 -16z" /><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" /></svg>
+        <span class="text-skin-base group-hover:text-skin-accent font-medium">Xで感想を送る</span>
+      </a>
+    </div>
     <hr class="my-6 border-dashed" />
 
-    <!-- Previous/Next Post Buttons -->
     <div data-pagefind-ignore class="grid grid-cols-1 gap-6 sm:grid-cols-2">
       {
         prevPost && (
@@ -168,7 +190,7 @@ const nextPost =
 
 <script is:inline data-astro-rerun>
   /** Create a progress indicator
-   *  at the top */
+   * at the top */
   function createProgressBar() {
     // Create the main container div
     const progressContainer = document.createElement("div");
@@ -189,7 +211,7 @@ const nextPost =
   createProgressBar();
 
   /** Update the progress bar
-   *  when user scrolls */
+   * when user scrolls */
   function updateScrollProgress() {
     document.addEventListener("scroll", () => {
       const winScroll =
@@ -209,7 +231,7 @@ const nextPost =
   updateScrollProgress();
 
   /** Attaches links to headings in the document,
-   *  allowing sharing of sections easily */
+   * allowing sharing of sections easily */
   function addHeadingLinks() {
     const headings = Array.from(
       document.querySelectorAll("h2, h3, h4, h5, h6")
