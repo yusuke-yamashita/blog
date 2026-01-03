@@ -3,7 +3,7 @@ export const SITE = {
   author: "やまずん",
   profile: "https://55ymzn.com/",
   desc: "System Fixer/バキバキQA/Dirty Testerやまずんのサイトです。",
-  title: "やまずん",
+  title: "やまずんイントロダクション",
   ogImage: "astropaper-og.jpg",
   lightAndDarkMode: true,
   postPerIndex: 4,
