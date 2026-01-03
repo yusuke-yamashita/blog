@@ -4,7 +4,7 @@ export const SITE = {
   profile: "https://55ymzn.com/",
   desc: "System Fixer/バキバキQA/Dirty Testerやまずんのサイトです。",
   title: "Go!Go!やまずん",
-  ogImage: "astropaper-og.jpg",
+  ogImage: "assets/og.png",
   lightAndDarkMode: true,
   postPerIndex: 4,
   postPerPage: 4,
