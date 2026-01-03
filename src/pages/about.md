@@ -62,7 +62,7 @@ title: "やまずんについて"
 - **登壇実績:**
     - テストの街例大祭 (Keynote)※全員キーノート
     - WARAI (Keynote)
-    - スクラムフェス, ふりかえりカンファレンス, JaSST nano、ほか
+    - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか
 
 ---
 
@@ -77,10 +77,10 @@ title: "やまずんについて"
 - **Docswell:** [docswell.com/user/55_ymzn](https://www.docswell.com/user/55_ymzn)
 
 ### 運営connpass
-- **testingOsaka** [teo.connpass.com](https://teo.connpass.com)
-- **バキバキQAチャンネル** [bakibakiqa.connpass.com](https://bakibakiqa.connpass.com)
-- **WARAI** [warai.connpass.com](https://warai.connpass.com)
-- **han-WARAI** [han-warai.connpass.com](https://han-warai.connpass.com)
+- **testingOsaka** [teo.connpass.com](https://teo.connpass.com):大阪のテストを通じた人々が集まるコミュニティ
+- **WARAI** [warai.connpass.com](https://warai.connpass.com):大阪のテストエンジニアのための勉強会コミュニティ
+- **han-WARAI** [han-warai.connpass.com](https://han-warai.connpass.com):オンラインで実施する勉強会コミュニティ
+- **バキバキQAチャンネル** [bakibakiqa.connpass.com](https://bakibakiqa.connpass.com):私が勉強したいことを自由にするチャンネル
 
 ### 英語
 - **Medium:** [medium.com/@usk_ymst_P](https://medium.com/@usk_ymst_P)
