@@ -59,7 +59,7 @@ export const SHARE_LINKS: Social[] = [
     linkTitle: `Share this post on Facebook`,
     icon: IconFacebook,
   },
-  {∏
+  {
     name: "Hatena",
     href: "https://b.hatena.ne.jp/entry/",
     linkTitle: `Share this post on Hatena Bookmark`,
