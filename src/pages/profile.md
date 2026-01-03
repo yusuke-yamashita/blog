@@ -3,7 +3,16 @@ layout: ../layouts/AboutLayout.astro
 title: "やまずんについて"
 ---
 
-<img src="/assets/IconYamazun.png" class="mx-auto rounded-full w-48 h-48 object-cover shadow-lg mb-8" alt="Yusuke Yamashita" />
+<div class="flex flex-col items-center mb-8">
+  <img src="/assets/IconYamazun.png" class="rounded-full w-48 h-48 object-cover shadow-lg mb-3" alt="Yusuke Yamashita" />
+  
+  <span class="text-sm opacity-80">
+    Illustrations by 
+    <a href="https://note.com/ranchero_58" target="_blank" class="underline decoration-dashed hover:text-skin-accent">
+      タスマニアデビ男
+    </a>
+  </span>
+</div>
 
 ## Profile
 
@@ -92,6 +101,6 @@ title: "やまずんについて"
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 
 ### 連絡先
-- **X** [X@55_ymzn](https://x.com/55_ymzn)
+- **X** [@55_ymzn](https://x.com/55_ymzn)
 
 より詳細な私の思考、行動規範、マニフェストについては、**[Me](me)** ページをご覧ください。
