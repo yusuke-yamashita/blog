@@ -1,5 +1,5 @@
 ---
-author: 55_ymzn
+author: やまずん
 title: System Fixerについて
 pubDatetime: 2025-11-25T11:00:00Z
 slug: 
