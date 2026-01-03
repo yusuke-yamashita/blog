@@ -68,7 +68,8 @@ title: "やまずんについて"
 ## Links & Contact
 
 - **X (Twitter):** [@55_ymzn](https://x.com/55_ymzn)
+- **メンタリングとコーチング:** [MENTA Profile](https://menta.work/user/98929)
+- **YOUTRUST** [YOUTRUST](https://youtrust.jp/users/55ymzn)
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
-- **Coaching:** [MENTA Profile](https://menta.work/user/98929)
 
-より詳細な私の思考、行動規範、マニフェストについては、**[Book](/book)** ページ（準備中）をご覧ください。
+より詳細な私の思考、行動規範、マニフェストについては、**[Me](me)** ページをご覧ください。
