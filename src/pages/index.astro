@@ -27,45 +27,50 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
       
-      <div class="flex flex-col-reverse sm:flex-row sm:items-center justify-between gap-6">
-        <div class="flex-1">
-          <h1 class="text-3xl font-bold sm:text-5xl tracking-tight text-skin-accent mb-2">
-            I am Yamazun.
-          </h1>
-          <p class="text-lg font-medium text-skin-base mb-4">
-            <strong>System Fixer</strong> / バキバキQA / Dirty Tester / Philosopher
-          </p>
-          <p class="mb-6 text-skin-base opacity-90 leading-relaxed max-w-lg">
+      {/* メインのコンテナ */}
+      <div class="flex flex-col-reverse sm:flex-row sm:items-center justify-between gap-6 sm:gap-12">
+        
+        {/* ▼ 左側のテキストエリア：要素を上から順に配置 */}
+        <div class="flex-1 flex flex-col items-start gap-4">
+          
+          {/* 1. タイトル & 肩書き */}
+          <div>
+            <h1 class="text-3xl font-bold sm:text-5xl tracking-tight text-skin-accent mb-2 whitespace-nowrap">
+              I am Yamazun.
+            </h1>
+            <p class="text-lg font-medium text-skin-base">
+              <strong>System Fixer</strong> / バキバキQA / Dirty Tester / Philosopher
+            </p>
+          </div>
+
+          {/* 2. 自己紹介文 */}
+          <p class="text-skin-base opacity-90 leading-relaxed max-w-lg">
             ソフトウェアテストをルーツに持ちつつ、System Fixerを目指しています。<br>
             ソフトウェアだけでなく、組織構造や人間関係の不具合もFixします。<br>
-            私については About と Me にまとめています。
+            私については Profile と Me にまとめています。
           </p>
 
-          {/* ソーシャルリンクエリア（RSSは削除して純粋にSNSのみに） */}
+          {/* 3. ボタンエリア（ここに移動しました） */}
+          <div class="py-2">
+            <LinkButton href="/me">
+              Read "Me"
+            </LinkButton>
+          </div>
+
+          {/* 4. ソーシャルリンク（一番下に配置） */}
           {
             SOCIALS.length > 0 && (
-              <div class="mb-6 flex flex-col sm:flex-row sm:items-center">
-                <div class="me-2 mb-1 flex items-center gap-2 whitespace-nowrap sm:mb-0">
-                  Social Links:
-                </div>
+              <div class="flex flex-wrap items-center gap-2">
+                <span class="whitespace-nowrap me-2">Social Links:</span>
                 <Socials />
               </div>
             )
           }
 
-          {/* ボタンエリア */}
-          <div class="flex flex-wrap gap-4">
-            <LinkButton href="/me">
-              Read "Me"
-            </LinkButton>
-            <LinkButton href="/posts" className="!bg-transparent !text-skin-base border border-skin-line hover:!bg-skin-card">
-              Read Posts
-            </LinkButton>
-          </div>
         </div>
 
-        {/* 画像エリア：ごま＆キャプション */}
-        <div class="flex flex-col items-center mb-4 sm:mb-0">
+        {/* ▼ 画像エリア */}
+        <div class="flex flex-col items-center mb-4 sm:mb-0 flex-shrink-0">
           <Image 
             src={gomaImg} 
             class="rounded-full w-32 h-32 sm:w-48 sm:h-48 object-cover shadow-xl border-4 border-skin-card" 
@@ -101,7 +106,6 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
           
-          {/* ▼ Recent Posts のタイトル横にRSSアイコンを移動 */}
           <div class="flex items-center gap-2 mb-2">
             <h2 class="text-2xl font-semibold tracking-wide">Recent Posts</h2>
             <a
