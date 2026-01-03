@@ -68,9 +68,27 @@ title: "やまずんについて"
 
 ## Links & Contact
 
-- **X (Twitter):** [@55_ymzn](https://x.com/55_ymzn)
+### 記事の類
+- **Zenn:** [zenn.dev/55_ymzn](https://zenn.dev/55_ymzn):普遍的かつ技術的な内容
+- **はてなブログ:** [yy-world.hatenadiary.com](https://yy-world.hatenadiary.com/):参加レポートなど特定の文脈に合わせた内容
+- **Note:** [note.com/55_ymzn](https://note.com/55_ymzn):エンジニアに限らないエッセイ
+
+### 発表資料
+- **Docswell:** [docswell.com/user/55_ymzn](https://www.docswell.com/user/55_ymzn)
+
+### 運営connpass
+- **testingOsaka** [teo.connpass.com](https://teo.connpass.com)
+- **バキバキQAチャンネル** [bakibakiqa.connpass.com](https://bakibakiqa.connpass.com)
+- **WARAI** [warai.connpass.com](https://warai.connpass.com)
+- **han-WARAI** [han-warai.connpass.com](https://han-warai.connpass.com)
+
+### 英語
+- **Medium:** [medium.com/@usk_ymst_P](https://medium.com/@usk_ymst_P)
+- **LinkedIn:** [linkedin.com/in/yusuke-yamashita](https://www.linkedin.com/in/yusuke-yamashita-a683b22a2/)
+
+### お仕事関係
 - **メンタリングとコーチング:** [MENTA Profile](https://menta.work/user/98929)
-- **YOUTRUST** [YOUTRUST](https://youtrust.jp/users/55ymzn)
+- **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 
 より詳細な私の思考、行動規範、マニフェストについては、**[Me](me)** ページをご覧ください。
