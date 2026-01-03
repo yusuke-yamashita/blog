@@ -11,6 +11,8 @@ import getSortedPosts from "@/utils/getSortedPosts";
 import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 import { SITE } from "@/config";
 import { SOCIALS } from "@/constants";
+import IconRss from "@/assets/icons/IconRss.svg"; 
+import IconArrowRight from "@/assets/icons/IconArrowRight.svg";
 
 const posts = await getCollection("blog");
 
@@ -31,12 +33,22 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
         // only display if at least one social link is enabled
         SOCIALS.length > 0 && (
           <div class="mt-4 flex flex-col sm:flex-row sm:items-center">
-            <div class="me-2 mb-1 whitespace-nowrap sm:mb-0">Social Links:</div>
+            <div class="me-2 mb-1 flex items-center gap-2 whitespace-nowrap sm:mb-0">
+              Social Links:
+              <a
+                href="/rss.xml"
+                target="_blank"
+                aria-label="rss feed"
+                title="RSS Feed"
+                class="inline-block transition-transform hover:rotate-6 hover:text-skin-accent"
+              >
+                <IconRss class="h-6 w-6 scale-90 opacity-70 hover:opacity-100" />
+              </a>
+            </div>
             <Socials />
           </div>
         )
       }
-    </section>
 
     <Hr />
 
