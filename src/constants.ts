@@ -44,7 +44,6 @@ export const SOCIALS: Social[] = [
     linkTitle: `${SITE.title}hate`,
     icon: IconNote,
   },
-  {
 ] as const;
 
 export const SHARE_LINKS: Social[] = [
