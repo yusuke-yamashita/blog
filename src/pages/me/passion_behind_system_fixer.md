@@ -5,7 +5,7 @@ title: "System Fixerに込めた思い"
 
 # はじめに
 私はこれまで、Dirty Tester、バキバキQAという異名を名乗っていました。
-いろいろ思うところがあり、2025年12月、私は私を [**「System Fixer」**](https://55ymzn.com/me/passion_behind_system_fixer/)と呼ぶことにしました。
+いろいろ思うところがあり、2025年12月、私は私を [**「System Fixer」**](https://55ymzn.com/posts/system_fixer/)と呼ぶことにしました。
 
 私はもうQAでなくていいと思っています。
 本当に思っています。

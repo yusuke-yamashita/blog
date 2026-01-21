@@ -15,7 +15,7 @@ System Fixerとは、ソフトウェア、組織、人間関係、文化的文�
 
 QAエンジニアとしての目的志向、テストエンジニアとしての観察眼と、アジャイルコーチや組織開発ファシリテーターの領域を横断するスキルを用い、システムが持続的に価値を生み出すための「修正（Fix）」を行います。
 
-[System Fixerに込めた思い（背景と経緯）はこちら](../../pages/me/passion_behind_system_fixer.md)
+[System Fixerに込めた思い（背景と経緯）はこちら](https://55ymzn.com/me/passion_behind_system_fixer/)
 
 # 概要と定義
 System Fixerは、単なるトラブルシューティングや現状復帰（マイナスをゼロに戻すこと）を目的としません。以下の2つの思想に基づき、システムを再構築します。
