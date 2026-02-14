@@ -61,6 +61,7 @@ title: "やまずんについて"
 - JSTQB Advanced Level (Test Manager / Test Analyst / Test Automation Engineer)
 - Registered Scrum Master / Agile Testing
 - 初級ソフトウェア品質技術者 (JCSQE)
+- 銀座コーチングスクール認定コーチ
 
 ---
 

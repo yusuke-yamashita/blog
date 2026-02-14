@@ -46,8 +46,8 @@ title: "コーチとしてのプロフィール"
 - プロフィール
     - 生年月日:1992/10/20
     - 大阪のテスター・QA・[System Fixer](../../data/blog/system_fixer.md)
-- ストレングスファインダー
-
+    - GCS認定コーチ
+    
 ![](../../../public/assets/yamazun_real2.jpg)
 やまずんの近影
 
