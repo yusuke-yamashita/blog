@@ -101,7 +101,9 @@ title: "やまずんについて"
 - **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 
-### 連絡先
-- **X** [@55_ymzn](https://x.com/55_ymzn)
+### 連絡先　（なんでもOK）
+- **お問い合わせフォーム:**:[やまずんお問い合わせ](https://forms.gle/3K384qxTpyLeb83a8)
+- **メール:** info[at]55ymzn.com （[at]を@に置き換えてお送りください）
+- **X:** [@55_ymzn](https://x.com/55_ymzn)
 
 より詳細な私の思考、行動規範、マニフェストについては、**[Me](me)** ページをご覧ください。
