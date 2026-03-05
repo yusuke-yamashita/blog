@@ -11,6 +11,7 @@ import { SITE } from "@/config";
 import IconZenn from "@/assets/icons/IconZenn.svg";
 import IconHatena from "@/assets/icons/IconHatena.svg";
 import IconNote from "@/assets/icons/IconNote.svg";
+import IconInstagram from "@/assets/icons/IconInstagram.svg";
 
 interface Social {
   name: string;
@@ -43,6 +44,24 @@ export const SOCIALS: Social[] = [
     href: "https://note.com/55_ymzn", // noteのURL
     linkTitle: `${SITE.title}hate`,
     icon: IconNote,
+  },
+  {
+    name: "Facebook",
+    href: "https://www.facebook.com/profile.php?id=100006859122633",
+    linkTitle: `${SITE.title} on Facebook`,
+    icon: IconFacebook,
+  },
+  {
+    name: "Instagram",
+    href: "https://www.instagram.com/55_ymzn/",
+    linkTitle: `${SITE.title} on Instagram`,
+    icon: IconInstagram,
+  },
+  {
+    name: "LinkedIn",
+    href: "https://www.linkedin.com/in/yusuke-yamashita-a683b22a2/",
+    linkTitle: `${SITE.title} on LinkedIn`,
+    icon: IconLinkedin,
   },
 ] as const;
 
