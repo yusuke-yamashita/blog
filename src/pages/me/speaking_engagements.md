@@ -7,100 +7,121 @@ title: "登壇実績"
 
 ## 2026年
 - **スクラムフェス福岡2026**
-  - **タイトル:** 【Docswell用】System Fixer-組纖へシフトレフトさせるQAの在り方
+  - **タイトル:** System Fixer-組纖へシフトレフトさせるQAの在り方
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZPR8G1-scrumfukuoka2026)
+  - **Type:** Short Session
 
 ## 2025年
 - **テスト自動化カンファレンス2025**
   - **タイトル:** 設計原則「関心の分離」からPage Object Modelを学ぼう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZX6XW7-STAC2025)
+  - **Type:** Short Session
 
 - **QA from 異業種**
   - **タイトル:** 今から考えると営業職の経験が今のQAに息づいているよな
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KJQPQV-2025-11-06-214016)
+  - **Type:** Short Session
 
 - **スクラム祭り2025沖縄トラック**
   - **タイトル:** 大阪のテストコミュニティを育てるためにやっとること
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K8WDQ2-scrumatokinawa)
+  - **Type:** Short Session
 
 - **スクラム祭りコミュニティLT**
   - **タイトル:** testingOsakaについて〜スクラム祭りコミュニティLT〜
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/5JQY1Q-scrumatcommunitylt)
+  - **Type:** LT
 
 - **CO-LAB Tech Night vol.3 QAエンジニアの未来を関西でも語りましょう**
   - **タイトル:** 自分が変化の起点となる 〜強いQAを演じる行動と葛藤〜
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KEYVE7-co-lab3)
+  - **Type:** Short Session
 
 - **デブサミ関西2025**
   - **タイトル:** テストを通じて大阪からソフトウェア開発をCo-Creationにしていこう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZLV8VD-devsumi2025kansai)
+  - **Type:** LT
 
 - **スクラムフェス三河2025**
   - **タイトル:** テストを使って透明性を獲得しよう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KN9QME-scrumfestmikawa2025)
+  - **Type:** Short Session
 
 - **関JAVA**
   - **タイトル:** テスターとプログラマーの新たな可能性の探究
   - **資料:** Sorry
+  - **Type:** LT
 
 - **きのこカンファレンス in 関西**
   - **タイトル:** スペシャリストとしての私、マネージャーを目指したい私
   - **資料:** Sorry
+  - **Type:** Short Session
 
 - **PHPカンファレンス関西2025**
   - **タイトル:** PHPコミュニティからやってみたテスターとプログラマーの新たな可能性の探究
   - **資料:** Sorry
+  - **Type:** LT
 
 - **WARAI 夏の陣2025**
-  - **タイトル:** Geminiを活用したソフトウェアテストについて本気出して考えてみた_公開用
+  - **タイトル:** Geminiを活用したソフトウェアテストについて本気出して考えてみた
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K7RX67-2025-06-14-113437)
+  - **Type:** Keynote
 
 - **スクラムフェス新潟2025**
   - **タイトル:** Sorry
   - **資料:** Sorry
+  - **Type:** Short Session
 
 - **【集え！関西エンジニア】いま熱いものLT大会**
   - **タイトル:** いま、QAとテストが熱い
   - **資料:** Sorry
+  - **Type:** LT
 
 - **ふりかえりカンファレンス2025**
   - **タイトル:** ふりかえりを品質保証の重要な位置付けとしてたちカエル
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZP23LE-retrospective2025)
+  - **Type:** Long Session
 
 - **testingOsaka#1**
   - **タイトル:** welcome_to_software_testing_world
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/Z3GDGV-2025-03-29-182124)
+  - **Type:** Short Session
 
 - **php関西勉強会**
   - **タイトル:** テスターがLaravelのtestをみてみた
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/582679-phpkansai44)
+  - **Type:** Short Session
 
 - **Nextbeat Tech Bar：第二回ソフトウェアテストについて考える会**
   - **タイトル:** これからソフトウェアテストを学ぶために知っておきたい前提知識
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KG1W7D-2025-01-24-193634)
-
+  - **Type:** Short Session
 
 ## 2024年
 - **テストの街例大祭**
-  - **タイトル:** やまずん的QA概論 (Keynote)
+  - **タイトル:** やまずん的QA概論
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K6VN4W-2024-12-28-163415)
+  - **Type:** Keynote
 
 - **WARAI冬の陣2024**
   - **タイトル:** 今こそソフトウェアテストの失敗について語ろう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KXE6LY-talking_about_test_failures)
+  - **Type:** Keynote 
 
 - **XP祭り2024**
   - **タイトル:** ビブリオバトル：改善ジャーニー
   - **資料:** None
+  - **Type:** ビブリオバトル
 
 - **スクラムフェス大阪2024**
   - **タイトル:** 私が大切にしている「テスター」としての批判精神
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KNRELE-2024-06-22-142215)
+  - **Type:** Short Session
 
 - **JaSST'24 Kansai**
   - **タイトル:** 貰う側から渡す側に
   - **資料:** Sorry
-
+  - **Type:** LT
 
 ## その他
 
