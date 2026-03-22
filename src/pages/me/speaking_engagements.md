@@ -11,6 +11,26 @@ title: "登壇実績"
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZPR8G1-scrumfukuoka2026)
   - **Type:** Short Session
 
+- **Agile Testing Night#27 ~JaSST'26 Tokyo非公式前夜祭~**
+  - **タイトル：** なし
+  - **資料:** なし
+  - **Type:** LT
+
+- **JaSST'26 Tokyo**
+  - **タイトル:** みんなでつくったJaSSTnanoなの
+  - **資料:** Sorry
+  - **Type:** panel discussion
+
+- **PHPerKaigi 2026**
+  - **タイトル：** PHPer Book Revue「マネジメントシステムに魂を入れる」
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KQ23VW-phperkaigi2026)
+  - **Type:** LT
+
+- **PHPerKaigi 2026 (Unconference)**
+  - **タイトル：** テストやら品質やらアジャイルやら
+  - **資料:** Sorry
+  - **Type:** Unconference/LT/ディスカッション
+
 ## 2025年
 - **テスト自動化カンファレンス2025**
   - **タイトル:** 設計原則「関心の分離」からPage Object Modelを学ぼう
