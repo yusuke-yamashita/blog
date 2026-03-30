@@ -101,6 +101,8 @@ title: "やまずんについて"
 - **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 
+**以下の連絡先から直接話してもらってもOKです**
+
 ### 連絡先　（なんでもOK）
 - **お問い合わせフォーム:** [やまずんお問い合わせ](https://forms.gle/3K384qxTpyLeb83a8)
 - **メール:** info[at]55ymzn.com （[at]を@に置き換えてお送りください）
