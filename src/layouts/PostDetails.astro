@@ -21,6 +21,8 @@ export interface Props {
   posts: CollectionEntry<"blog">[];
 }
 
+export const prerender = true;
+
 const { post, posts } = Astro.props;
 
 const {
