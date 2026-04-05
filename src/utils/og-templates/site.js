@@ -3,7 +3,7 @@ import { SITE } from "@/config";
 import fs from "node:fs"; 
 import path from "node:path"; 
 
-const fontPath = path.resolve("public/fonts/NotoSansJP-VariableFont_wght.ttf");
+const fontPath = path.resolve("public/fonts/NotoSansJP-Bold.ttf");
 const fontData = fs.readFileSync(fontPath);
 
 export default async () => {

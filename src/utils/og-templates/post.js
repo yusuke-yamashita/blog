@@ -5,7 +5,7 @@ import fs from "node:fs"; // 追加
 import path from "node:path"; // 追加
 
 // フォントファイルを読み込む
-const fontPath = path.resolve("public/fonts/NotoSansJP-VariableFont_wght.ttf");
+const fontPath = path.resolve("public/fonts/NotoSansJP-Bold.ttf");
 const fontData = fs.readFileSync(fontPath);
 
 // const markup = html`<div
