@@ -40,6 +40,10 @@ export default defineConfig({
     // This will be fixed in Astro 6 with Vite 7 support
     // See: https://github.com/withastro/astro/issues/14030
     plugins: [tailwindcss()],
+    build: {
+      assetsInlineLimit: 0, // ★ すべてのアセットのインライン化を禁止する
+      cssCodeSplit: true,   // CSSを分割して外部ファイル化する
+    },
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],
     },
