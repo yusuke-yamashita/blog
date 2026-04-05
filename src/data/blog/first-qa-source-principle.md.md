@@ -1,7 +1,7 @@
 ---
 author: やまずん
 title: 1人目QAの自己投影の罠：品質保証が独立したソースへ変容する力学
-pubDatetime: 2026-04-05T11:00:00Z
+pubDatetime: 2026-04-05T00:00:00Z
 slug: 
 featured: false
 draft: false
