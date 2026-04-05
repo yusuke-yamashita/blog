@@ -1,12 +1,10 @@
 ---
 author: やまずん
 title: 1人目QAの自己投影の罠：品質保証が独立したソースへ変容する力学
-pubDatetime: 2026-04-05T00:00:00Z
-slug: 
 featured: false
 draft: false
 tags:
-  - QA,Source Principle
+  - QA,system
 description: 1人目QAの成熟過程で起こる組織的な力学についての論考。QAエンジニアのルサンチマンに基づく自己投影や、テストの独立性が引き起こす「ソースとの断絶」を指摘し、対立から統合へ向かうためのシステムリーダーシップの必要性を紐解きます。
 ---
 
