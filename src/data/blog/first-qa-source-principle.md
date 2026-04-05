@@ -1,6 +1,6 @@
 ---
 author: やまずん
-title: 1人目QAの自己投影〜あなたの品質保証が独立したソースへ変容してしまう〜
+title: 1人目QAの自己投影〜誰かの”品質保証”が独立したソースへ変容してしまうとき〜
 pubDatetime: 2026-04-05T00:00:00Z
 featured: false
 draft: false
