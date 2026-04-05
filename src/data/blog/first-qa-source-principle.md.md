@@ -2,7 +2,7 @@
 author: やまずん
 title: 1人目QAの自己投影の罠：品質保証が独立したソースへ変容する力学
 pubDatetime: 2026-04-05T11:00:00Z
-slug: first-qa-source-principle
+slug: 
 featured: false
 draft: false
 tags:
