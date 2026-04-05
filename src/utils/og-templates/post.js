@@ -1,7 +1,12 @@
 import satori from "satori";
 // import { html } from "satori-html";
 import { SITE } from "@/config";
-import loadGoogleFonts from "../loadGoogleFont";
+import fs from "node:fs"; // 追加
+import path from "node:path"; // 追加
+
+// フォントファイルを読み込む
+const fontPath = path.resolve("public/fonts/NotoSansJP-VariableFont_wght.ttf");
+const fontData = fs.readFileSync(fontPath);
 
 // const markup = html`<div
 //       style={{
@@ -221,9 +226,14 @@ export default async post => {
       width: 1200,
       height: 630,
       embedFont: true,
-      fonts: await loadGoogleFonts(
-        post.data.title + post.data.author + SITE.title + "by"
-      ),
+      fonts: [
+        {
+          name: "Noto Sans JP",
+          data: fontData,
+          weight: 700,
+          style: "normal",
+        },
+      ],
     }
   );
 };

@@ -1,6 +1,10 @@
 import satori from "satori";
 import { SITE } from "@/config";
-import loadGoogleFonts from "../loadGoogleFont";
+import fs from "node:fs"; 
+import path from "node:path"; 
+
+const fontPath = path.resolve("public/fonts/NotoSansJP-VariableFont_wght.ttf");
+const fontData = fs.readFileSync(fontPath);
 
 export default async () => {
   return satori(
@@ -122,7 +126,14 @@ export default async () => {
       width: 1200,
       height: 630,
       embedFont: true,
-      fonts: await loadGoogleFonts(SITE.title + SITE.desc + SITE.website),
-    }
+      fonts: [
+        {
+          name: "Noto Sans JP",
+          data: fontData,
+          weight: 700,
+          style: "normal",
+        },
+      ],
+    },
   );
 };
