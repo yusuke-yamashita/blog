@@ -82,6 +82,7 @@ title: "やまずんについて"
 - **Zenn:** [zenn.dev/55_ymzn](https://zenn.dev/55_ymzn):普遍的かつ技術的な内容
 - **はてなブログ:** [yy-world.hatenadiary.com](https://yy-world.hatenadiary.com/):参加レポートなど特定の文脈に合わせた内容
 - **Note:** [note.com/55_ymzn](https://note.com/55_ymzn):エンジニアに限らないエッセイ
+- **ブクログ**　[booklog.jp/users/55ymzn](https://booklog.jp/users/55ymzn):持ってる本とかのリスト
 
 ### 発表資料
 - **Docswell:** [docswell.com/user/55_ymzn](https://www.docswell.com/user/55_ymzn)
