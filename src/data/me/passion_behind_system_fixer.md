@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "System Fixerに込めた思い"
 ---
 

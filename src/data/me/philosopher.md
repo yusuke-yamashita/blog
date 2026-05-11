@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "私の生きる意味をフィロソファーという遊びにした"
 ---
 

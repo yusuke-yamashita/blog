@@ -1,0 +1,20 @@
+---
+import { getCollection, render } from "astro:content";
+import AboutLayout from "../../layouts/AboutLayout.astro";
+
+export async function getStaticPaths() {
+  const meEntries = await getCollection("me");
+  return meEntries.map(entry => ({
+    // idが"index"の場合はundefinedを返し、`/me/`のルートに割り当てる
+    params: { id: entry.id === "index" ? undefined : entry.id },
+    props: { entry },
+  }));
+}
+
+const { entry } = Astro.props;
+const { Content } = await render(entry);
+---
+
+<AboutLayout frontmatter={{ title: entry.data.title, description: entry.data.description }}>
+  <Content />
+</AboutLayout>

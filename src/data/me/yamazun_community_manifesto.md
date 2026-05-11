@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "コミュニティにおける、やまずんの行動規範"
 ---
 

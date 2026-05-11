@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "Dirty Testerに込めた思い"
 ---
 

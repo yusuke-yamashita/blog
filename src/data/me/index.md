@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "Me"
 description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と記録の集成"
 ---

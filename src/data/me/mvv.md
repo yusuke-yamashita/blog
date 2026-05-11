@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "やまずんの目的、ビジョン的、キャリア像的なもの"
 ---
 

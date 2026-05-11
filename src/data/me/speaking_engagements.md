@@ -1,11 +1,15 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "登壇実績"
 ---
 
 過去の登壇資料や参加イベントの一覧です。
 
 ## 2026年
+- **スクラムフェス新潟2026**
+  - **タイトル:** コーチングで皆の内なる「品質への関心」を探しに行こう
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K4NY2Q-ScrumFestNiigata2026)
+  - **Type:** Long Session
+
 - **スクラムフェス福岡2026**
   - **タイトル:** System Fixer-組纖へシフトレフトさせるQAの在り方
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZPR8G1-scrumfukuoka2026)

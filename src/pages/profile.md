@@ -69,7 +69,7 @@ title: "やまずんについて"
 
 - **運営:**
     - testingOsaka, スクラム祭り, JaSST nano, TokyoTestFest
-- **登壇実績:**
+- **主な登壇実績:**
     - テストの街例大祭 (Keynote)※全員キーノート
     - WARAI (Keynote)
     - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか
@@ -101,6 +101,9 @@ title: "やまずんについて"
 - **メンタリングとコーチング:** [MENTA Profile](https://menta.work/user/98929)
 - **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
+
+### 相方
+- **イラストの類:** [タスマニアデビ男](https://note.com/ranchero_58)
 
 **以下の連絡先から直接話してもらってもOKです**
 

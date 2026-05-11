@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "QAエンジニアは何を目指すのか"
 ---
 

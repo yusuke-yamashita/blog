@@ -1,5 +1,4 @@
 ---
-layout: ../../layouts/AboutLayout.astro
 title: "QAとしての自分の考えを表明するためのポジションペーパー"
 ---
 
