@@ -6,7 +6,7 @@ slug:
 featured: true
 draft: false
 tags:
-  - SystemFixer
+  - organization
 description: システムフィクサーについて
 ---
 

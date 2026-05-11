@@ -5,8 +5,8 @@ pubDatetime: 2026-05-11T00:00:00Z
 featured: false
 draft: false
 tags:
-  - system
-  - process-work
+  - organization
+  - essay
 description: カンファレンスなどの「尊い場」でふと感じる「居心地の悪さ」や「薄ら寒さ」の扱い方について。プロセスワークの視点を交え、システムに対する違和感を自らの大切な「願い」として捉え直し、エッジを超えるかを選択するためのエッセイです。
 ---
 

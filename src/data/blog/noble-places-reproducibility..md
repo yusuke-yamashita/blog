@@ -5,7 +5,8 @@ pubDatetime: 2026-05-10T00:00:00Z
 featured: false
 draft: false
 tags:
-  - system
+  - organization
+  - essay
 description: カンファレンスなどのイベントで生まれる「尊い空間」は、決して偶然の奇跡ではなく、関係性が織りなす再現可能な構造であるという考察。特別な場（ハレ）で感じた心地よさを、日常（ケ）の半径5メートルで実践し見出していくためのエッセイです。
 ---
 

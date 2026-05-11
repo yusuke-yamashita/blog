@@ -6,7 +6,7 @@ slug:
 featured: false
 draft: false
 tags:
-  - movie
+  - scrap
 description: これまでみた動画をまとめる
 ---
 
