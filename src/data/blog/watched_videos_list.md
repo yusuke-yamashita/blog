@@ -2,7 +2,6 @@
 author: やまずん
 title: これまで見た動画をまとめるページ
 pubDatetime: 2024-12-27T11:00:00Z
-slug: 
 featured: false
 draft: false
 tags:

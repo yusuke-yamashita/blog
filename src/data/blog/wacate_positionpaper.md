@@ -2,7 +2,6 @@
 author: やまずん
 title: WACATE2025年夏のポジションペーパー
 pubDatetime: 2025-04-02T11:00:00Z
-slug: 
 featured: false
 draft: false
 tags:

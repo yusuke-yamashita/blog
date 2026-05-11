@@ -2,12 +2,12 @@
 author: やまずん
 title: System Fixerについて
 pubDatetime: 2025-11-25T11:00:00Z
-slug: 
 featured: true
 draft: false
 tags:
   - organization
-description: システムフィクサーについて
+  - concept
+description: System Fixer（システムフィクサー）という専門職の定義や特徴、対象とする領域、行動指針などについてまとめたコンセプト記事です。
 ---
 
 # System Fixer (システムフィクサー)
