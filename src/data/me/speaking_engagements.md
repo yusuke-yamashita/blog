@@ -5,6 +5,16 @@ title: "登壇実績"
 過去の登壇資料や参加イベントの一覧です。
 
 ## 2026年
+- **Yokohama North Meetup #16 〜ほんとにあった開発怖い話〜**
+  - **タイトル:** テスト中に死を感じた時
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KE184R-yokohama-north16)
+  - **Type:** LT
+
+- **testingOsaka例大祭**
+  - **タイトル:** エンジニアとして生成的なシステムを紡ぐエンジニアリング
+  - **資料:** Sorry
+  - **Type:** Keynote
+
 - **スクラムフェス新潟2026**
   - **タイトル:** コーチングで皆の内なる「品質への関心」を探しに行こう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K4NY2Q-ScrumFestNiigata2026)
