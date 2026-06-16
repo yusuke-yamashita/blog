@@ -6,9 +6,10 @@ featured: false
 draft: true
 tags:
   - essay
-  - concept
-  - organization
-description: アールスリーインスティテュートの施設「gusuku Ashibinaa」が持つ空間の魅力を、クリストファー・アレグザンダーのパターン・ランゲージにおける「生命力」の観点から紐解きます。
+  - community
+  - architecture
+  - pattern-language
+description: アールスリーインスティテュートの施設「gusuku Ashibinaa Osaka」が持つ空間の魅力を、クリストファー・アレグザンダーのパターン・ランゲージにおける「生命力」の観点から紐解きます。
 ---
 
 ## はじめに
