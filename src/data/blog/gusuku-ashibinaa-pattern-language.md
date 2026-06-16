@@ -3,7 +3,7 @@ author: やまずん
 title: 中心のある空間、生命が宿る場：gusuku Ashibinaa Osaka
 pubDatetime: 2026-06-16T12:07:00Z
 featured: false
-draft: false
+draft: true
 tags:
   - essay
   - concept
