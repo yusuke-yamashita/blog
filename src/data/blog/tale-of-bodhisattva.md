@@ -7,7 +7,7 @@ draft: false
 tags:
   - essay
   - monogatari
-description: 透明人間の物語です。ちょっと物語風にしてみました。
+description: 透明人間が如来に会う物語です。
 ---
 
 これは、透明人間の物語です。
