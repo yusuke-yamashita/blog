@@ -5,6 +5,11 @@ title: "登壇実績"
 過去の登壇資料や参加イベントの一覧です。
 
 ## 2026年
+- **JaSST nano vol.53**
+  - **タイトル:** ソース原理を JaSST nano 2ndシーズンの 立ち上がりから学ぼう
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/57N1YV-jasstnano53)
+  - **Type:** Short Session
+
 - **Yokohama North Meetup #16 〜ほんとにあった開発怖い話〜**
   - **タイトル:** テスト中に死を感じた時
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KE184R-yokohama-north16)
