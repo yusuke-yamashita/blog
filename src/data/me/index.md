@@ -16,7 +16,6 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 - **[やまずんの目的、ビジョン的、キャリア像的なもの](/me/mvv)**
 - **[私の生きる意味をフィロソファーという遊びにした](/me/philosopher)**
 
-
 ### Philosophy 
 
 - **[品質についての自分の考えを表明するためのポジションペーパー](/me/positioning_paper_of_qa)**
@@ -28,7 +27,6 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 ### Activities & Manifesto 
 
 - **[コミュニティにおける、やまずんの行動規範](/me/yamazun_community_manifesto)**
-- **[コーチとしてのプロフィール](/me/profile_as_coach)**
 - **[登壇・活動実績](/me/speaking_engagements)**
 
 ---

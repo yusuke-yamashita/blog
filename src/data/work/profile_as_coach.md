@@ -45,7 +45,7 @@ title: "コーチとしてのプロフィール"
 - コミュニティ活動・登壇実績:testingOsaka、スクラム祭り、JaSST nanoなど、コミュニティ運営や登壇多数。
 - プロフィール
     - 生年月日:1992/10/20
-    - 大阪のテスター・QA・[System Fixer](../../data/blog/system_fixer.md)
+    - 大阪のテスター・QA・[System Fixer](/posts/system_fixer)
     - GCS認定コーチ
     
 ![](../../../public/assets/yamazun_real2.jpg)
@@ -57,4 +57,4 @@ title: "コーチとしてのプロフィール"
 
 [MENTA](https://menta.work/user/98929)でも大丈夫です。
 
-[← Meに戻る](/me)
+[← Workに戻る](/work)
