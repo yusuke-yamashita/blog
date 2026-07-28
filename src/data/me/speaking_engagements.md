@@ -5,6 +5,16 @@ title: "登壇実績"
 過去の登壇資料や参加イベントの一覧です。
 
 ## 2026年
+- **システム思考の世界へ　― AI時代に求められる「システム思考」とは？**
+  - **タイトル:** システム思考のレンズで テストを考える 〜「時間的遅れ」と「情報の流れ」〜
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KGNJ24-systemthinking20260727)
+  - **Type:** LT
+
+- **第五回唐揚げ会**
+  - **タイトル:** “失敗”することに 失敗した
+  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZL39GG-karaage5)
+  - **Type:** LT
+
 - **JaSST nano vol.53**
   - **タイトル:** ソース原理を JaSST nano 2ndシーズンの 立ち上がりから学ぼう
   - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/57N1YV-jasstnano53)
