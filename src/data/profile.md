@@ -69,7 +69,7 @@ title: "やまずんについて"
 - **運営:**
     - testingOsaka, スクラム祭り, JaSST nano, TokyoTestFest, Raycast関西
 - **主な登壇実績:**
-    - テストの街例大祭 (Keynote),testingOsaka例大祭 (Keynote[])※全員キーノート
+    - テストの街例大祭 (Keynote),testingOsaka例大祭 (Keynote)※全員キーノート
     - WARAI (Keynote)
     - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか
 
@@ -84,7 +84,7 @@ title: "やまずんについて"
 - **ブクログ**　[booklog.jp/users/55ymzn](https://booklog.jp/users/55ymzn):持ってる本とかのリスト
 
 ### 発表資料
-- **Docswell:** [docswell.com/user/55_ymzn](https://www.docswell.com/user/55_ymzn)
+- **Docswell:** [docswell.com/user/55ymzn](https://www.docswell.com/user/55ymzn)
 
 ### 運営connpass
 - **testingOsaka** [teo.connpass.com](https://teo.connpass.com):大阪のテストを通じた人々が集まるコミュニティ
@@ -112,6 +112,6 @@ title: "やまずんについて"
 ### 連絡先　（なんでもOK）
 - **お問い合わせフォーム:** [やまずんお問い合わせ](https://forms.gle/3K384qxTpyLeb83a8)
 - **メール:** info[at]55ymzn.com （[at]を@に置き換えてお送りください）
-- **X:** [@55_ymzn](https://x.com/55_ymzn)
+- **X:** [@55ymzn](https://x.com/55ymzn)
 
 より詳細な私の思考、行動規範、マニフェストについては、**[Me](/me)** ページをご覧ください。
