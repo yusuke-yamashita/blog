@@ -19,7 +19,7 @@ interface Social {
 export const SOCIALS: Social[] = [
   {
     name: "X",
-    href: "https://x.com/55_ymzn", // 自分のXユーザー名に変える
+    href: "https://x.com/55ymzn", // 自分のXユーザー名に変える
     linkTitle: `${SITE.title} on X`,
     icon: IconBrandX,
   },
