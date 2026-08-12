@@ -86,7 +86,7 @@ const nextPost =
 /* ========== X Feedback URL ========== */
 // ▼ 追加: 記事の感想用URL生成
 const currentUrl = new URL(Astro.url.pathname, SITE.website).href;
-const feedbackUrl = `https://twitter.com/intent/tweet?text=@55_ymzn%20記事読みました！%0A&url=${currentUrl}`;
+const feedbackUrl = `https://twitter.com/intent/tweet?text=@55ymzn%20記事読みました！%0A&url=${currentUrl}`;
 ---
 
 <Layout {...layoutProps}>

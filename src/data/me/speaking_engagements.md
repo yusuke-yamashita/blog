@@ -7,22 +7,22 @@ title: "登壇実績"
 ## 2026年
 - **システム思考の世界へ　― AI時代に求められる「システム思考」とは？**
   - **タイトル:** システム思考のレンズで テストを考える 〜「時間的遅れ」と「情報の流れ」〜
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KGNJ24-systemthinking20260727)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KGNJ24-systemthinking20260727)
   - **Type:** LT
 
 - **第五回唐揚げ会**
   - **タイトル:** “失敗”することに 失敗した
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZL39GG-karaage5)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZL39GG-karaage5)
   - **Type:** LT
 
 - **JaSST nano vol.53**
   - **タイトル:** ソース原理を JaSST nano 2ndシーズンの 立ち上がりから学ぼう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/57N1YV-jasstnano53)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/57N1YV-jasstnano53)
   - **Type:** Short Session
 
 - **Yokohama North Meetup #16 〜ほんとにあった開発怖い話〜**
   - **タイトル:** テスト中に死を感じた時
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KE184R-yokohama-north16)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KE184R-yokohama-north16)
   - **Type:** LT
 
 - **testingOsaka例大祭**
@@ -32,12 +32,12 @@ title: "登壇実績"
 
 - **スクラムフェス新潟2026**
   - **タイトル:** コーチングで皆の内なる「品質への関心」を探しに行こう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K4NY2Q-ScrumFestNiigata2026)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K4NY2Q-ScrumFestNiigata2026)
   - **Type:** Long Session
 
 - **スクラムフェス福岡2026**
   - **タイトル:** System Fixer-組纖へシフトレフトさせるQAの在り方
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZPR8G1-scrumfukuoka2026)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZPR8G1-scrumfukuoka2026)
   - **Type:** Short Session
 
 - **Agile Testing Night#27 ~JaSST'26 Tokyo非公式前夜祭~**
@@ -52,7 +52,7 @@ title: "登壇実績"
 
 - **PHPerKaigi 2026**
   - **タイトル：** PHPer Book Revue「マネジメントシステムに魂を入れる」
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KQ23VW-phperkaigi2026)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KQ23VW-phperkaigi2026)
   - **Type:** LT
 
 - **PHPerKaigi 2026 (Unconference)**
@@ -68,37 +68,37 @@ title: "登壇実績"
 ## 2025年
 - **テスト自動化カンファレンス2025**
   - **タイトル:** 設計原則「関心の分離」からPage Object Modelを学ぼう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZX6XW7-STAC2025)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZX6XW7-STAC2025)
   - **Type:** Short Session
 
 - **QA from 異業種**
   - **タイトル:** 今から考えると営業職の経験が今のQAに息づいているよな
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KJQPQV-2025-11-06-214016)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KJQPQV-2025-11-06-214016)
   - **Type:** Short Session
 
 - **スクラム祭り2025沖縄トラック**
   - **タイトル:** 大阪のテストコミュニティを育てるためにやっとること
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K8WDQ2-scrumatokinawa)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K8WDQ2-scrumatokinawa)
   - **Type:** Short Session
 
 - **スクラム祭りコミュニティLT**
   - **タイトル:** testingOsakaについて〜スクラム祭りコミュニティLT〜
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/5JQY1Q-scrumatcommunitylt)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/5JQY1Q-scrumatcommunitylt)
   - **Type:** LT
 
 - **CO-LAB Tech Night vol.3 QAエンジニアの未来を関西でも語りましょう**
   - **タイトル:** 自分が変化の起点となる 〜強いQAを演じる行動と葛藤〜
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KEYVE7-co-lab3)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KEYVE7-co-lab3)
   - **Type:** Short Session
 
 - **デブサミ関西2025**
   - **タイトル:** テストを通じて大阪からソフトウェア開発をCo-Creationにしていこう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZLV8VD-devsumi2025kansai)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZLV8VD-devsumi2025kansai)
   - **Type:** LT
 
 - **スクラムフェス三河2025**
   - **タイトル:** テストを使って透明性を獲得しよう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KN9QME-scrumfestmikawa2025)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KN9QME-scrumfestmikawa2025)
   - **Type:** Short Session
 
 - **関JAVA**
@@ -118,7 +118,7 @@ title: "登壇実績"
 
 - **WARAI 夏の陣2025**
   - **タイトル:** Geminiを活用したソフトウェアテストについて本気出して考えてみた
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K7RX67-2025-06-14-113437)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K7RX67-2025-06-14-113437)
   - **Type:** Keynote
 
 - **スクラムフェス新潟2025**
@@ -133,33 +133,33 @@ title: "登壇実績"
 
 - **ふりかえりカンファレンス2025**
   - **タイトル:** ふりかえりを品質保証の重要な位置付けとしてたちカエル
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/ZP23LE-retrospective2025)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZP23LE-retrospective2025)
   - **Type:** Long Session
 
 - **testingOsaka#1**
   - **タイトル:** welcome_to_software_testing_world
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/Z3GDGV-2025-03-29-182124)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/Z3GDGV-2025-03-29-182124)
   - **Type:** Short Session
 
 - **php関西勉強会**
   - **タイトル:** テスターがLaravelのtestをみてみた
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/582679-phpkansai44)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/582679-phpkansai44)
   - **Type:** Short Session
 
 - **Nextbeat Tech Bar：第二回ソフトウェアテストについて考える会**
   - **タイトル:** これからソフトウェアテストを学ぶために知っておきたい前提知識
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KG1W7D-2025-01-24-193634)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KG1W7D-2025-01-24-193634)
   - **Type:** Short Session
 
 ## 2024年
 - **テストの街例大祭**
   - **タイトル:** やまずん的QA概論
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K6VN4W-2024-12-28-163415)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K6VN4W-2024-12-28-163415)
   - **Type:** Keynote
 
 - **WARAI冬の陣2024**
   - **タイトル:** 今こそソフトウェアテストの失敗について語ろう
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KXE6LY-talking_about_test_failures)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KXE6LY-talking_about_test_failures)
   - **Type:** Keynote 
 
 - **XP祭り2024**
@@ -169,7 +169,7 @@ title: "登壇実績"
 
 - **スクラムフェス大阪2024**
   - **タイトル:** 私が大切にしている「テスター」としての批判精神
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/KNRELE-2024-06-22-142215)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KNRELE-2024-06-22-142215)
   - **Type:** Short Session
 
 - **JaSST'24 Kansai**
@@ -187,11 +187,11 @@ title: "登壇実績"
 
 - **NaITE36**
   - **タイトル:** TesConJourney21_NaITE36
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/K4Q2LY-2024-06-02-185951)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K4Q2LY-2024-06-02-185951)
 
 - **どっかの社内の勉強会**
   - **タイトル:** 2019年11月25日に社内でやった勉強会
-  - **資料:** [Docswell](https://www.docswell.com/s/55_ymzn/5YV6N3-ymstkai)
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/5YV6N3-ymstkai)
 
 ---
 [← Meに戻る](/me)
