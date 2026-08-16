@@ -1,7 +1,7 @@
 ---
 author: やまずん
 title: 念能力:フェアネスエクスチェンジ（公正と欺瞞の天秤）
-pubDatetime: 2026-08-16T15:00:00Z
+pubDatetime: 2026-08-16T10:00:00Z
 featured: false
 draft: false
 tags:
