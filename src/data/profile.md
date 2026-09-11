@@ -104,6 +104,9 @@ title: "やまずんについて"
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 - **テストの街のブログ** [tmkatsushika.tokyo/blog](https://www.tmkatsushika.tokyo/blog)
 
+### 趣味
+- **しずかなインターネット**　[sizu.mne/ymzn](https://sizu.me/ymzn)
+
 ### 相方
 - **イラストの類:** [タスマニアデビ男](https://note.com/ranchero_58)
 
