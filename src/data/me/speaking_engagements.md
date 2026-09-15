@@ -5,6 +5,27 @@ title: "登壇実績"
 過去の登壇資料や参加イベントの一覧です。
 
 ## 2026年
+
+- **スクラムフェス三河2026**
+  - **タイトル:** ソフトウェアテストを検査しよう
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K7N3R2-scrumfestmikawa2026)
+  - **Type:** Short Session
+
+- **【ORION】「ITイベント何参加してる？」自分に合うコミュニティに出会うLT会**
+  - **タイトル:** 「発表者」という参加のあり方
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/Z9NLE1-2026-08-25-192400)
+  - **Type:** LT
+
+- **testingOsaka#12**
+  - **タイトル:** なぜテストにファシリテーションが必要なのか
+  - **資料:** [Blog](https://testingosaka.org/blog/2026-08-25_testingosaka/)
+  - **Type:** LT
+
+- **Management & AI Commons Osaka – ゆるLT会 #9**
+  - **タイトル:** コーチングってなんなの？
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/Z1QW12-what_is_coaching)
+  - **Type:** LT
+
 - **システム思考の世界へ　― AI時代に求められる「システム思考」とは？**
   - **タイトル:** システム思考のレンズで テストを考える 〜「時間的遅れ」と「情報の流れ」〜
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KGNJ24-systemthinking20260727)
