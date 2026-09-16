@@ -64,7 +64,7 @@ description: カンファレンスなどの集まりで無自覚に生じる「�
 
 心からそうです。  
 正直、怖い人や危害を加えてくると思う人はいます。  
-[きょんさんとnacoさんのことじゃないよ](https://yy-world.hatenadiary.com/entry/2025/12/02/120000)
+きょんさんとnacoさんのことじゃないよ：https://yy-world.hatenadiary.com/entry/2025/12/02/120000
 
 でも、それはその人がすごいからではありません。
 
