@@ -6,6 +6,16 @@ title: "登壇実績"
 
 ## 2026年
 
+- **スクラム祭り2026沖縄トラック**
+  - **タイトル:** ありふれた地域コミュニティに何者でもない自分で関わる
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/Z3JQ21-scrumatokinawa2026)
+  - **Type:** Long Session
+
+- **スクラム祭り2026鹿児島トラック**
+  - **タイトル:** 違和感のぬかるみにとどまる
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K8NEJP-scrumatkagoshima2026)
+  - **Type:** Short Session
+
 - **スクラムフェス三河2026**
   - **タイトル:** ソフトウェアテストを検査しよう
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K7N3R2-scrumfestmikawa2026)
@@ -134,7 +144,7 @@ title: "登壇実績"
 
 - **PHPカンファレンス関西2025**
   - **タイトル:** PHPコミュニティからやってみたテスターとプログラマーの新たな可能性の探究
-  - **資料:** Sorry
+  - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KJ4JV1-phpkansai2025)
   - **Type:** LT
 
 - **WARAI 夏の陣2025**
