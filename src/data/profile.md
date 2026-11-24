@@ -13,6 +13,21 @@ title: "やまずんについて"
   </span>
 </div>
 
+<div class="my-8 rounded-lg border-2 border-accent/60 bg-muted/30 p-6 text-center shadow-sm">
+  <p class="mt-0 mb-2 text-lg font-bold">
+    思考・哲学・これまでの歩み（ストック情報）は「Me」へ
+  </p>
+  <p class="mt-0 mb-4 text-sm opacity-90">
+    System Fixer / バキバキQA / Dirty Tester に込めた思い、品質観、行動規範、登壇実績などをまとめています。
+  </p>
+  <a
+    href="/me"
+    class="inline-block rounded-md border-2 border-accent px-6 py-2.5 text-lg font-bold text-accent no-underline transition-colors hover:bg-accent hover:text-background"
+  >
+    Read "Me" →
+  </a>
+</div>
+
 ## Profile
 
 **山下 友輔 (Yusuke Yamashita)**
