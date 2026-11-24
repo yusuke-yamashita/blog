@@ -136,21 +136,39 @@ const feedbackUrl = `https://twitter.com/intent/tweet?text=@55ymzn%20記事読�
 
     <ShareLinks />
 
-    <div class="mt-12 text-center p-6 border-2 border-dashed border-skin-line rounded-xl bg-skin-card/50">
-      <p class="mb-4 font-bold text-lg">この記事はいかがでしたか？</p>
+    <div
+      class="border-skin-line bg-skin-card/50 mt-12 rounded-xl border-2 border-dashed p-6 text-center"
+    >
+      <p class="mb-4 text-lg font-bold">この記事はいかがでしたか？</p>
       <p class="mb-6 text-sm opacity-90">
-        コメント機能はありません。<br>
+        コメント機能はありません。<br />
         感想やフィードバックはX（Twitter）でやまずん宛に送ってください！
       </p>
-      
-      <a 
+
+      <a
         href={feedbackUrl}
         target="_blank"
         rel="noopener noreferrer"
-        class="inline-flex items-center gap-2 px-6 py-3 bg-skin-card border border-skin-line rounded-full hover:text-skin-accent hover:border-skin-accent transition-colors shadow-sm group"
+        class="bg-skin-card border-skin-line hover:text-skin-accent hover:border-skin-accent group inline-flex items-center gap-2 rounded-full border px-6 py-3 shadow-sm transition-colors"
       >
-        <svg xmlns="http://www.w3.org/2000/svg" class="icon-tabler stroke-skin-base group-hover:stroke-skin-accent" width="24" height="24" viewBox="0 0 24 24" stroke-width="2" stroke="currentColor" fill="none" stroke-linecap="round" stroke-linejoin="round"><path stroke="none" d="M0 0h24v24H0z" fill="none"/><path d="M4 4l11.733 16h4.267l-11.733 -16z" /><path d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772" /></svg>
-        <span class="text-skin-base group-hover:text-skin-accent font-medium">Xで感想を送る</span>
+        <svg
+          xmlns="http://www.w3.org/2000/svg"
+          class="icon-tabler stroke-skin-base group-hover:stroke-skin-accent"
+          width="24"
+          height="24"
+          viewBox="0 0 24 24"
+          stroke-width="2"
+          stroke="currentColor"
+          fill="none"
+          stroke-linecap="round"
+          stroke-linejoin="round"
+          ><path stroke="none" d="M0 0h24v24H0z" fill="none"></path><path
+            d="M4 4l11.733 16h4.267l-11.733 -16z"></path><path
+            d="M4 20l6.768 -6.768m2.46 -2.46l6.772 -6.772"></path></svg
+        >
+        <span class="text-skin-base group-hover:text-skin-accent font-medium"
+          >Xで感想を送る</span
+        >
       </a>
     </div>
     <hr class="my-6 border-dashed" />

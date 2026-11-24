@@ -20,7 +20,10 @@ let tags = getUniqueTags(posts);
       {tags.map(({ tag, tagName }) => <Tag {tag} {tagName} size="lg" />)}
     </ul>
     <div class="mt-8">
-      <a href="/posts/" class="underline decoration-dashed underline-offset-4 hover:text-accent">
+      <a
+        href="/posts/"
+        class="underline decoration-dashed underline-offset-4 hover:text-accent"
+      >
         ← Postsに戻る
       </a>
     </div>

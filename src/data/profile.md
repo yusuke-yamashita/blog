@@ -16,7 +16,7 @@ title: "やまずんについて"
 ## Profile
 
 **山下 友輔 (Yusuke Yamashita)**
-*Handle: やまずん (Yamazun)*
+_Handle: やまずん (Yamazun)_
 
 大阪在住の **System Fixer** / QAエンジニア。
 
@@ -31,11 +31,14 @@ title: "やまずんについて"
 ## Core Identity
 
 ### [System Fixer](/posts/system_fixer)
+
 既存の枠組み（QAやエンジニア）に囚われず、本質的な価値を追求するために「システム」の不具合（バグ）を修正する役割。
 組織の断絶や不透明な関係性を「バグ」と捉え、対話と技術によって修正（Fix）します。
+
 > 「傷一つない新品よりも、金継ぎされた器のように、歴史を背負いながら価値を発揮し続けるシステムを愛しています。」
 
 ### [Philosopher (知を愛する者)](/me/philosopher)
+
 人生を「知の探求という遊び」と捉え、違和感を言語化し、美や卓越といった本質を見抜くことを趣味としています。
 
 より詳細な私の思考や哲学、各肩書きに込めた思い、行動規範については **[Me](/me)** にまとめています。
@@ -43,6 +46,7 @@ title: "やまずんについて"
 ---
 
 ## Career Summary
+
 - **個人事業主：やまずん (2025.03 - Present)**
 - **HR系SaaSのQAリード (2024.12 - 2026.04)**
 - **リーガル系SaaSのQAリード (2024.02 - 2024.11)**
@@ -54,11 +58,13 @@ title: "やまずんについて"
 ## Skills & Certifications
 
 ### 専門分野
+
 - **QA / Testing:** テストマネジメント, テスト自動化, TPI Nextによるプロセス改善
 - **Agile / Scrum:** アジャイルコーチング, スクラムマスター
 - **Coaching:** パーソナルコーチング, 価値観の言語化, チームビルディング
 
 ### 主な資格
+
 - JSTQB Advanced Level (Test Manager / Test Analyst / Test Automation Engineer)
 - Registered Scrum Master / Agile Testing
 - 初級ソフトウェア品質技術者 (JCSQE)
@@ -69,53 +75,62 @@ title: "やまずんについて"
 ## Community Activities
 
 - **運営:**
-    - testingOsaka, スクラム祭り, JaSST nano, TokyoTestFest, Raycast関西
+  - testingOsaka, スクラム祭り, JaSST nano, TokyoTestFest, Raycast関西
 - **主な登壇実績:**
-    - テストの街例大祭 (Keynote),testingOsaka例大祭 (Keynote)※全員キーノート
-    - WARAI (Keynote)
-    - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか（一覧は **[登壇実績](/me/speaking_engagements)** をご覧ください）
+  - テストの街例大祭 (Keynote),testingOsaka例大祭 (Keynote)※全員キーノート
+  - WARAI (Keynote)
+  - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか（一覧は **[登壇実績](/me/speaking_engagements)** をご覧ください）
 
 ---
 
 ## Links & Contact
 
 ### 記事の類
+
 - **Zenn:** [zenn.dev/55_ymzn](https://zenn.dev/55_ymzn):普遍的かつ技術的な内容
 - **はてなブログ:** [yy-world.hatenadiary.com](https://yy-world.hatenadiary.com/):参加レポートなど特定の文脈に合わせた内容
 - **Note:** [note.com/55_ymzn](https://note.com/55_ymzn):エンジニアに限らないエッセイ
 - **ブクログ**　[booklog.jp/users/55ymzn](https://booklog.jp/users/55ymzn):持ってる本とかのリスト
 
 ### 発表資料
+
 - **Docswell:** [docswell.com/user/55ymzn](https://www.docswell.com/user/55ymzn)
 
 ### 運営connpass
+
 - **testingOsaka** [teo.connpass.com](https://teo.connpass.com):大阪のテストを通じた人々が集まるコミュニティ
 - **WARAI** [warai.connpass.com](https://warai.connpass.com):大阪のテストエンジニアのための勉強会コミュニティ
 - **han-WARAI** [han-warai.connpass.com](https://han-warai.connpass.com):オンラインで実施する勉強会コミュニティ
 - **バキバキQAチャンネル** [bakibakiqa.connpass.com](https://bakibakiqa.connpass.com):私が勉強したいことを自由にするチャンネル
 
 ### 英語
+
 - **Medium:** [medium.com/@usk_ymst_P](https://medium.com/@usk_ymst_P)
 - **LinkedIn:** [linkedin.com/in/yusuke-yamashita](https://www.linkedin.com/in/yusuke-yamashita-a683b22a2/)
 
 ### お仕事関係
+
 - **お仕事のご依頼・詳細:** **[Work](/work)**
 - **メンタリングとコーチング:** [MENTA Profile](https://menta.work/user/98929)
 - **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 
 ### 主な外部投稿記事
+
 - **Sqripts:** [sqripts.com/writer/yamashita-yusuke/](https://sqripts.com/writer/yamashita-yusuke/)
 - **テストの街のブログ** [tmkatsushika.tokyo/blog](https://www.tmkatsushika.tokyo/blog)
 
 ### 趣味
+
 - **しずかなインターネット**　[sizu.mne/ymzn](https://sizu.me/ymzn)
 
 ### 相方
+
 - **イラストの類:** [タスマニアデビ男](https://note.com/ranchero_58)
 
 **以下の連絡先から直接話してもらってもOKです**
 
 ### 連絡先　（なんでもOK）
+
 - **お問い合わせフォーム:** [やまずんお問い合わせ](https://forms.gle/3K384qxTpyLeb83a8)
 - **メール:** info[at]55ymzn.com （[at]を@に置き換えてお送りください）
 - **X:** [@55ymzn](https://x.com/55ymzn)

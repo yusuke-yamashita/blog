@@ -31,6 +31,7 @@ scrapみたいな扱いです。
 # ソフトウェアテスト
 
 ## スクフェス新潟
+
 - [What is G.O.O.D. Testing? And why is it Important for Everyone?](https://confengine.com/conferences/scrum-fest-niigata-2022/proposal/16413/good-testing-is-important-for-everyone-good)
 - [Reaching the “Big Picture” In Testing and Quality / テストと品質における「全体像（ビッグピクチャー）」への到達](https://confengine.com/conferences/scrum-fest-niigata-2023/proposal/18184/reaching-the-big-picture-in-testing-and-quality)
 - [The Boundaries of Testing / テストの境界](https://confengine.com/conferences/scrum-fest-niigata-2024/proposal/19808/the-boundaries-of-testing)

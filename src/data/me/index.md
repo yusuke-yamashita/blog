@@ -7,7 +7,7 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 
 ## 📚 Contents
 
-### Identity 
+### Identity
 
 - **[やまずんとは何か](/me/what_is_yamazun)**
 - **[Dirty Testerに込めた思い](/me/passion_behind_dirty_tester)**
@@ -16,7 +16,7 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 - **[やまずんの目的、ビジョン的、キャリア像的なもの](/me/mvv)**
 - **[私の生きる意味をフィロソファーという遊びにした](/me/philosopher)**
 
-### Philosophy 
+### Philosophy
 
 - **[品質についての自分の考えを表明するためのポジションペーパー](/me/positioning_paper_of_qa)**
 - **[QAエンジニアは何を目指すのか](/me/what_is_qa_engineer_mindset)**
@@ -24,7 +24,7 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 - **[パーフェクトQAパーフェクトスタイル](/me/perfectqa_perfectstyle)**
 - **[価値観と良心](/me/perspectives_and_reason)**
 
-### Activities & Manifesto 
+### Activities & Manifesto
 
 - **[コミュニティにおける、やまずんの行動規範](/me/yamazun_community_manifesto)**
 - **[登壇・活動実績](/me/speaking_engagements)**
