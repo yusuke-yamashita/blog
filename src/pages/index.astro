@@ -50,19 +50,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
             />
             ソフトウェアだけでなく、組織構造や人間関係の不具合もFixします。<br
             />
-            私については
-            <a
-              href="/profile"
-              class="underline decoration-dashed underline-offset-4 hover:text-accent"
-              >Profile</a
-            >
-            と
-            <a
-              href="/me"
-              class="underline decoration-dashed underline-offset-4 hover:text-accent"
-              >Me</a
-            >
-            にまとめています。
+            私については Profile と Me にまとめています。
             {/* ▼▼▼ 追加: イラストレータークレジット ▼▼▼ */}
             <span class="mt-2 block text-sm opacity-80">
               (Illustrations by
@@ -78,20 +66,8 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
           </p>
 
           {/* 3. ボタンエリア（ここに移動しました） */}
-          <div class="flex flex-wrap items-center gap-3 py-2">
-            <LinkButton
-              href="/me"
-              class="rounded-md border-2 border-accent px-4 py-2 font-semibold text-accent transition-colors hover:bg-accent hover:text-background"
-            >
-              Read "Me"
-              <IconArrowRight class="inline-block" />
-            </LinkButton>
-            <LinkButton
-              href="/profile"
-              class="rounded-md border border-border px-4 py-2 font-medium transition-colors hover:border-accent hover:text-accent"
-            >
-              Profile
-            </LinkButton>
+          <div class="py-2">
+            <LinkButton href="/me"> Read "Me" </LinkButton>
           </div>
 
           {/* 4. ソーシャルリンク（一番下に配置） */}
