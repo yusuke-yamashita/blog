@@ -31,4 +31,4 @@ description: "System Fixer/バキバキQA/Dirty Tester やまずんの思考と�
 
 ---
 
-[← トップページに戻る](/)
+[← Profileに戻る](/profile)

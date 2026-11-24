@@ -30,13 +30,15 @@ title: "やまずんについて"
 
 ## Core Identity
 
-### System Fixer
+### [System Fixer](/posts/system_fixer)
 既存の枠組み（QAやエンジニア）に囚われず、本質的な価値を追求するために「システム」の不具合（バグ）を修正する役割。
 組織の断絶や不透明な関係性を「バグ」と捉え、対話と技術によって修正（Fix）します。
 > 「傷一つない新品よりも、金継ぎされた器のように、歴史を背負いながら価値を発揮し続けるシステムを愛しています。」
 
-### Philosopher (知を愛する者)
+### [Philosopher (知を愛する者)](/me/philosopher)
 人生を「知の探求という遊び」と捉え、違和感を言語化し、美や卓越といった本質を見抜くことを趣味としています。
+
+より詳細な私の思考や哲学、各肩書きに込めた思い、行動規範については **[Me](/me)** にまとめています。
 
 ---
 
@@ -71,7 +73,7 @@ title: "やまずんについて"
 - **主な登壇実績:**
     - テストの街例大祭 (Keynote),testingOsaka例大祭 (Keynote)※全員キーノート
     - WARAI (Keynote)
-    - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか
+    - スクラムフェス各種, ふりかえりカンファレンス, JaSST nano、ほか（一覧は **[登壇実績](/me/speaking_engagements)** をご覧ください）
 
 ---
 
@@ -97,6 +99,7 @@ title: "やまずんについて"
 - **LinkedIn:** [linkedin.com/in/yusuke-yamashita](https://www.linkedin.com/in/yusuke-yamashita-a683b22a2/)
 
 ### お仕事関係
+- **お仕事のご依頼・詳細:** **[Work](/work)**
 - **メンタリングとコーチング:** [MENTA Profile](https://menta.work/user/98929)
 - **YOUTRUST:** [youtrust.jp/users/55ymzn](https://youtrust.jp/users/55ymzn)
 
@@ -118,3 +121,7 @@ title: "やまずんについて"
 - **X:** [@55ymzn](https://x.com/55ymzn)
 
 より詳細な私の思考、行動規範、マニフェストについては、**[Me](/me)** ページをご覧ください。
+
+---
+
+[← トップページに戻る](/)

@@ -19,6 +19,9 @@ const isActive = (path: string) => {
   const currentPathArray = currentPath.split("/").filter(p => p.trim());
   const pathArray = path.split("/").filter(p => p.trim());
 
+  if (path === "/posts" && currentPathArray[0] === "tags") return true;
+  if (path === "/profile" && currentPathArray[0] === "me") return true;
+
   return currentPath === path || currentPathArray[0] === pathArray[0];
 };
 ---
@@ -79,18 +82,8 @@ const isActive = (path: string) => {
             </a>
           </li>
           <li class="col-span-2">
-            <a href="/me" class:list={{ "active-nav": isActive("/me") }}>
-              Me
-            </a>
-          </li>
-          <li class="col-span-2">
             <a href="/work" class:list={{ "active-nav": isActive("/work") }}>
               Work
-            </a>
-          </li>
-          <li class="col-span-2">
-            <a href="/tags" class:list={{ "active-nav": isActive("/tags") }}>
-              Tags
             </a>
           </li>
           {
