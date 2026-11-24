@@ -15,24 +15,25 @@ import gomaImg from "@/assets/goma.png";
     id="main-content"
     class="mx-auto flex max-w-3xl flex-1 items-center justify-center"
   >
-    <div class="mb-14 flex flex-col items-center justify-center text-center px-4">
-      
+    <div
+      class="mb-14 flex flex-col items-center justify-center px-4 text-center"
+    >
       {/* ごまちゃんの画像 */}
       <div class="mb-6">
-        <Image 
-          src={gomaImg} 
-          class="rounded-full w-32 h-32 object-cover shadow-lg border-4 border-skin-card" 
-          alt="守り神のごま" 
+        <Image
+          src={gomaImg}
+          class="border-skin-card h-32 w-32 rounded-full border-4 object-cover shadow-lg"
+          alt="守り神のごま"
         />
       </div>
 
-      <h1 class="text-8xl font-bold text-skin-accent tracking-tighter">404</h1>
-      
-      <p class="mt-4 text-2xl sm:text-3xl font-bold text-skin-base">
+      <h1 class="text-skin-accent text-8xl font-bold tracking-tighter">404</h1>
+
+      <p class="text-skin-base mt-4 text-2xl font-bold sm:text-3xl">
         System Error... or Bug?
       </p>
-      
-      <p class="mt-4 text-lg text-skin-base opacity-90 leading-relaxed">
+
+      <p class="text-skin-base mt-4 text-lg leading-relaxed opacity-90">
         お探しのページは見つかりませんでした。<br />
         System Fixerもまだこのリンクは直せていないようです。<br />
         （ごまに願いをかけてみてください)
@@ -40,7 +41,7 @@ import gomaImg from "@/assets/goma.png";
 
       <LinkButton
         href="/"
-        class="mt-8 text-lg border border-skin-line px-6 py-3 hover:bg-skin-card transition-colors rounded-full"
+        class="border-skin-line hover:bg-skin-card mt-8 rounded-full border px-6 py-3 text-lg transition-colors"
       >
         トップページに戻る (Fix)
       </LinkButton>

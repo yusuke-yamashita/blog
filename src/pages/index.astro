@@ -26,32 +26,39 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
   <Header />
   <main id="main-content" data-layout="index">
     <section id="hero" class="pt-8 pb-6">
-      
       {/* メインのコンテナ */}
-      <div class="flex flex-col-reverse sm:flex-row sm:items-center justify-between gap-6 sm:gap-12">
-        
+      <div
+        class="flex flex-col-reverse justify-between gap-6 sm:flex-row sm:items-center sm:gap-12"
+      >
         {/* ▼ 左側のテキストエリア：要素を上から順に配置 */}
-        <div class="flex-1 flex flex-col items-start gap-4">
-          
+        <div class="flex flex-1 flex-col items-start gap-4">
           {/* 1. タイトル & 肩書き */}
           <div>
-            <h1 class="text-3xl font-bold sm:text-5xl tracking-tight text-skin-accent mb-2 whitespace-nowrap">
+            <h1
+              class="text-skin-accent mb-2 text-3xl font-bold tracking-tight whitespace-nowrap sm:text-5xl"
+            >
               I am Yamazun.
             </h1>
-            <p class="text-lg font-medium text-skin-base">
+            <p class="text-skin-base text-lg font-medium">
               <strong>System Fixer</strong> / バキバキQA / Dirty Tester / Philosopher
             </p>
           </div>
 
           {/* 2. 自己紹介文 */}
-          <p class="text-skin-base opacity-90 leading-relaxed max-w-lg">
-            ソフトウェアテストをルーツに持ちつつ、System Fixerを目指しています。<br>
-            ソフトウェアだけでなく、組織構造や人間関係の不具合もFixします。<br>
+          <p class="text-skin-base max-w-lg leading-relaxed opacity-90">
+            ソフトウェアテストをルーツに持ちつつ、System Fixerを目指しています。<br
+            />
+            ソフトウェアだけでなく、組織構造や人間関係の不具合もFixします。<br
+            />
             私については Profile と Me にまとめています。
             {/* ▼▼▼ 追加: イラストレータークレジット ▼▼▼ */}
-            <span class="text-sm mt-2 block opacity-80">
-              (Illustrations by 
-              <a href="https://note.com/ranchero_58" target="_blank" class="underline decoration-dashed hover:text-skin-accent">
+            <span class="mt-2 block text-sm opacity-80">
+              (Illustrations by
+              <a
+                href="https://note.com/ranchero_58"
+                target="_blank"
+                class="hover:text-skin-accent underline decoration-dashed"
+              >
                 タスマニアデビ男
               </a>)
             </span>
@@ -60,35 +67,33 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
 
           {/* 3. ボタンエリア（ここに移動しました） */}
           <div class="py-2">
-            <LinkButton href="/me">
-              Read "Me"
-            </LinkButton>
+            <LinkButton href="/me"> Read "Me" </LinkButton>
           </div>
 
           {/* 4. ソーシャルリンク（一番下に配置） */}
           {
             SOCIALS.length > 0 && (
               <div class="flex flex-wrap items-center gap-2">
-                <span class="whitespace-nowrap me-2">Social Links:</span>
+                <span class="me-2 whitespace-nowrap">Social Links:</span>
                 <Socials />
               </div>
             )
           }
-
         </div>
 
         {/* ▼ 画像エリア */}
-        <div class="flex flex-col items-center mb-4 sm:mb-0 flex-shrink-0">
-          <Image 
-            src={gomaImg} 
-            class="rounded-full w-32 h-32 sm:w-48 sm:h-48 object-cover shadow-xl border-4 border-skin-card" 
-            alt="守り神のごま" 
+        <div class="mb-4 flex flex-shrink-0 flex-col items-center sm:mb-0">
+          <Image
+            src={gomaImg}
+            class="border-skin-card h-32 w-32 rounded-full border-4 object-cover shadow-xl sm:h-48 sm:w-48"
+            alt="守り神のごま"
           />
-          <span class="mt-3 text-sm font-bold text-skin-base opacity-70 tracking-wider">
+          <span
+            class="text-skin-base mt-3 text-sm font-bold tracking-wider opacity-70"
+          >
             守り神のごま
           </span>
         </div>
-
       </div>
     </section>
 
@@ -113,8 +118,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
     {
       recentPosts.length > 0 && (
         <section id="recent-posts" class="pt-12 pb-6">
-          
-          <div class="flex items-center gap-2 mb-2">
+          <div class="mb-2 flex items-center gap-2">
             <h2 class="text-2xl font-semibold tracking-wide">Recent Posts</h2>
             <a
               href="/rss.xml"
@@ -123,7 +127,7 @@ const recentPosts = sortedPosts.filter(({ data }) => !data.featured);
               title="RSS Feed"
               class="group inline-block"
             >
-              <IconRss class="h-6 w-6 scale-90 opacity-50 transition-all duration-300 group-hover:scale-110 group-hover:fill-skin-accent group-hover:opacity-100" />
+              <IconRss class="group-hover:fill-skin-accent h-6 w-6 scale-90 opacity-50 transition-all duration-300 group-hover:scale-110 group-hover:opacity-100" />
             </a>
           </div>
 

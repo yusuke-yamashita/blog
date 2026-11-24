@@ -3,9 +3,11 @@ import { Content, frontmatter } from "../data/profile.md";
 import AboutLayout from "../layouts/AboutLayout.astro";
 ---
 
-<AboutLayout frontmatter={{
-  title: frontmatter.title || "Profile",
-  description: frontmatter.description
-}}>
+<AboutLayout
+  frontmatter={{
+    title: frontmatter.title || "Profile",
+    description: frontmatter.description,
+  }}
+>
   <Content />
 </AboutLayout>

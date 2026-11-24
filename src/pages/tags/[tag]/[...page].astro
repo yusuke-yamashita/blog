@@ -44,6 +44,14 @@ const { page, tagName } = Astro.props;
     <ul>
       {page.data.map(data => <Card {...data} />)}
     </ul>
+    <div class="mt-8">
+      <a
+        href="/tags/"
+        class="underline decoration-dashed underline-offset-4 hover:text-accent"
+      >
+        ← Tags一覧に戻る
+      </a>
+    </div>
   </Main>
 
   <Pagination {page} />

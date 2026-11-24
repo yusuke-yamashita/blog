@@ -59,7 +59,7 @@ const structuredData = {
     <link rel="canonical" href={canonicalURL} />
     <meta name="generator" content={Astro.generator} />
 
-<title>{title}</title>
+    <title>{title}</title>
     <meta name="title" content={title} />
     <meta name="description" content={description} />
     <meta name="author" content={author} />
@@ -78,7 +78,7 @@ const structuredData = {
     <meta name="twitter:title" content={title} />
     <meta name="twitter:description" content={description} />
     <meta name="twitter:image" content={socialImageURL} />
-    
+
     <!-- Article Published/Modified time -->
     {
       pubDatetime && (
@@ -126,7 +126,6 @@ const structuredData = {
         />
       )
     }
-
 
     <script is:inline src="/toggle-theme.js"></script>
   </head>

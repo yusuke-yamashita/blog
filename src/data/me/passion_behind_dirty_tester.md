@@ -115,7 +115,7 @@ https://zenn.dev/55_ymzn/articles/value_of_test_execution
 
 ## Dirty Testerの現在と思い
 
-2024年11月現在、Dirty Testerという言葉は鳴りを顰め、バキバキQAという異名で言われることが多いです。
+2024年11月現在、Dirty Testerという言葉は鳴りを顰め、[バキバキQA](/me/passion_behind_bakibaki_qa)という異名で言われることが多いです。
 私自身、Dirtyという単語を使うことが少し恥ずかしいという思いがあることにはあるが、私自身はDirty Testerにもっとも愛着があります。
 
 バキバキQAは正直、誰がどう名乗ってもかまわないと思っています。

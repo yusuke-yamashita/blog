@@ -42,7 +42,7 @@ export default defineConfig({
     plugins: [tailwindcss()],
     build: {
       assetsInlineLimit: 0, // ★ すべてのアセットのインライン化を禁止する
-      cssCodeSplit: true,   // CSSを分割して外部ファイル化する
+      cssCodeSplit: true, // CSSを分割して外部ファイル化する
     },
     optimizeDeps: {
       exclude: ["@resvg/resvg-js"],

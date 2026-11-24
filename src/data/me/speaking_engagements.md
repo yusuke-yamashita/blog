@@ -92,11 +92,12 @@ title: "登壇実績"
   - **Type:** Unconference/LT/ディスカッション
 
 - **関ジャバ'26　3月度**
-  - **タイトル：** マネジメントシステムに魂を入れるの紹介(PHPerKaigi2026の流用)/システム思考とソフトウェアテスト 
+  - **タイトル：** マネジメントシステムに魂を入れるの紹介(PHPerKaigi2026の流用)/システム思考とソフトウェアテスト
   - **資料:** Sorry
   - **Type:** LT
 
 ## 2025年
+
 - **テスト自動化カンファレンス2025**
   - **タイトル:** 設計原則「関心の分離」からPage Object Modelを学ぼう
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/ZX6XW7-STAC2025)
@@ -183,6 +184,7 @@ title: "登壇実績"
   - **Type:** Short Session
 
 ## 2024年
+
 - **テストの街例大祭**
   - **タイトル:** やまずん的QA概論
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/K6VN4W-2024-12-28-163415)
@@ -191,7 +193,7 @@ title: "登壇実績"
 - **WARAI冬の陣2024**
   - **タイトル:** 今こそソフトウェアテストの失敗について語ろう
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/KXE6LY-talking_about_test_failures)
-  - **Type:** Keynote 
+  - **Type:** Keynote
 
 - **XP祭り2024**
   - **タイトル:** ビブリオバトル：改善ジャーニー
@@ -225,4 +227,5 @@ title: "登壇実績"
   - **資料:** [Docswell](https://www.docswell.com/s/55ymzn/5YV6N3-ymstkai)
 
 ---
+
 [← Meに戻る](/me)
