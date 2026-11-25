@@ -54,7 +54,7 @@ title: "コーチとしてのプロフィール"
   - 大阪のテスター・QA・[System Fixer](/posts/system_fixer)
   - GCS認定コーチ
 
-![](../../../public/assets/yamazun_real2.jpg)
+![](../../../public/assets/yamazun_real4.jpg)
 やまずんの近影
 
 # セッション依頼のご依頼・お問い合わせ
